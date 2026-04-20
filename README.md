@@ -1,3 +1,2 @@
-ss
 
 # External Practical Exam
