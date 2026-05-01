@@ -1,5 +1,2 @@
 # External Practical Exam
 
-
-
-
